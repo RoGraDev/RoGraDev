@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Roger Grajales</h1>
+<h1 align="center">Hi 👋, I'm RoGraDev</h1>
 <h3 align="center">A passionate developer from Panamá.</h3>
 
-- 🌱 I’m currently learning **Cybersecurity and Python.**
+- 🌱 I’m currently learning **Backend with Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
